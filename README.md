@@ -12,33 +12,33 @@ If you do not need all the buttons, you can place the next code in you're theme.
 ?>
 ```
 
-windowdown - moves the window down 
-windowup - moves the window up
-removeformat - clears inline style formatting, preserves blocks
-h1, h2, h3, h4, h5, h6 - headings
-bold
-italic
-underline
-justifyleft - align the text left
-justifyCenter - center the text
-justifyRight - align the text right
-justifyFull - align the text left and right
-pre - preformatted 
-subscript
-superscript
-anchor - create a link from the selected text
-quote
-orderedlist
-unorderedlist
-indent
-outdent
-white, red, green, blue, purple - pen colors
-byellow, bred - marker colors
-hr - double horizontal line. If you select text and click hr, you're text will be between two lines
-imgleft - this converts selected text to an left aligned image tag with the text wrapped around the image
-imgright - this converts selected text to an right aligned image tag with the text wrapped around the image
-imgcenter - this converts selected text to a center aligned image with no text wrapped around
-save - saves the changes you made.
+windowdown - moves the window down<br />
+windowup - moves the window up<br />
+removeformat - clears inline style formatting, preserves blocks<br />
+h1, h2, h3, h4, h5, h6 - headings<br />
+bold<br />
+italic<br />
+underline<br />
+justifyleft - align the text left<br />
+justifyCenter - center the text<br />
+justifyRight - align the text right<br />
+justifyFull - align the text left and right<br />
+pre - preformatted <br />
+subscript<br />
+superscript<br />
+anchor - create a link from the selected text<br />
+quote<br />
+orderedlist<br />
+unorderedlist<br />
+indent<br />
+outdent<br />
+white, red, green, blue, purple - pen colors<br />
+byellow, bred - marker colors<br />
+hr - double horizontal line. If you select text and click hr, you're text will be between two lines<br />
+imgleft - this converts selected text to an left aligned image tag with the text wrapped around the image<br />
+imgright - this converts selected text to an right aligned image tag with the text wrapped around the image<br />
+imgcenter - this converts selected text to a center aligned image with no text wrapped around<br />
+save - saves the changes you made.<br />
 
 
 
