@@ -26,7 +26,7 @@ function loadMediumEditorJS($args) {
 	}
 	else
 	{
-   		$buttontoolb = '"bold", "italic", "underline", "anchor", "h2", "h3", "quote", "save"';
+   		$buttontoolb = '"windowdown", "windowup", "removeFormat", "h1", "h2", "h3", "h4", "h5", "h6", "bold", "italic", "underline", "justifyLeft", "justifyCenter", "justifyRight", "justifyFull", "table", "pre", "subscript", "superscript", "anchor", "quote", "orderedlist", "unorderedlist", "indent", "outdent", "white", "red", "green", "blue", "purple", "byellow", "bred", "hr", "imgleft", "imgright", "imgcenter", "save"';
 	}
 	$script = '<script src="plugins/mediumeditor_wCMS/dist/js/medium-editor.min.js"></script>'. '<script src="plugins/mediumeditor_wCMS/dist/js/medium-editor-tables.min.js"></script>'.'<script src="plugins/mediumeditor_wCMS/dist/js/medium-button.min.js"></script>'.'<script>function savetxt(stabc, stghi){savetxtid=stabc; savetxttarget=stghi;}</script>'.
 
